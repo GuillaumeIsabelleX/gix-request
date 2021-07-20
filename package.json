@@ -1,8 +1,9 @@
 {
-  "name": "request",
-  "description": "Simplified HTTP request client.",
+  "name": "gix-request",
+  "description": "GIX Simplified HTTP request client with upgraded package.",
   "keywords": [
     "http",
+    "gix",
     "simple",
     "util",
     "utility"
@@ -11,10 +12,10 @@
   "author": "Mikeal Rogers <mikeal.rogers@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/request/request.git"
+    "url": "https://github.com/GuillaumeIsabelleX/gix-request.git"
   },
   "bugs": {
-    "url": "http://github.com/request/request/issues"
+    "url": "http://github.com/GuillaumeIsabelleX/gix-request/issues"
   },
   "license": "Apache-2.0",
   "engines": {
